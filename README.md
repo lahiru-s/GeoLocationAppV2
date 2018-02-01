@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SFDX  App
 
 ## Dev, Build and Test
@@ -12,3 +13,7 @@
 ## Issues
 
 
+=======
+# GeoLocationAppV2
+Sample Geo location app
+>>>>>>> 002439a677c5cb9de31e710f79fcd76ff80c49ea
